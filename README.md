@@ -1,3 +1,4 @@
+### This is our original submission (with super slight modification) for Discord Hack Week 2019. The latest version can be found [here](https://github.com/Tansc161/Libereus).
 ![discord](https://lihi1.cc/7CBE7)
 [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
 # Libereus
