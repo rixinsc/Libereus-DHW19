@@ -6,7 +6,7 @@ Libereus is a Discord bot written in Python 3.6 as a submission to participate i
 
 ##### Update:
 The judgement phase is over,  and we got **second place**! Full results can be see [here](https://blog.discordapp.com/discord-community-hack-week-category-winners-bd0364360f92).
-Thanks everyone for your support and we look forward to make Libereus better as time goes on! 🤗
+A big thank you to everyone who supported the bot and we look forward in making Libereus better as time goes on! 🤗
 
 It has the ability to:
 > ✅ Prune inactive members via their last message's date  
